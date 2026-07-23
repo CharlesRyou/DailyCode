@@ -21,3 +21,4 @@ def weight():
 
 if __name__ == "__main__":
     weight()
+    print(1)
